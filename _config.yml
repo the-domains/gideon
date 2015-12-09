@@ -1,0 +1,28 @@
+name: Gideon
+favicon: null
+layout_spectrum: 0.8185981451533735
+typography_spectrum: 0.14104920881800354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.39711994491517544
+  lightness: 0.4300916497595608
+  saturation: 0.03983399737626314
+  rhythmicContrast: 0.8501802645623684
+purpose: []
